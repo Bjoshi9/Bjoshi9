@@ -4,7 +4,7 @@ Hi 👋 My name is Brijesh Joshi
 Senior Android Developer
 ------------------------
 
-* 🌍  I'm based in Ahmedabad
+* 🌍  I'm based in london
 * ✉️  You can contact me at [joshi.brijesh.ce@gmail.com](mailto:joshi.brijesh.ce@gmail.com)
 * 🧠  I'm learning Jetpack Compose
 
