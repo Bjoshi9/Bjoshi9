@@ -6,7 +6,7 @@ Senior Android Developer
 
 * 🌍  I'm based in london
 * ✉️  You can contact me at [joshi.brijesh.ce@gmail.com](mailto:joshi.brijesh.ce@gmail.com)
-* 🧠  I'm learning Jetpack Compose
+* 🧠  Currently working with Jetpack Compose, Flutter, KMM
 
 <a href="https://www.twitter.com/bjoshi91" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/bjoshi91?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
@@ -31,8 +31,9 @@ src="https://img.shields.io/github/followers/bjoshi9?logo=github&style=for-the-b
 <p align="left"> <a href="https://www.facebook.com/bjoshi9" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a> <a href="https://www.github.com/bjoshi9" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/bjoshi9" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/brijesh-joshi-b562b35b" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.stackoverflow.com/users/9734616/brijesh-joshi" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/bjoshi91" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
 
 ### Badges
+![bjoshi9's Stats](https://github-readme-stats.vercel.app/api?username=bjoshi9&theme=vue-dark&show_icons=true&hide_border=false&count_private=true)
 
-<a href="https://github.com/bjoshi9" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bjoshi9&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/bjoshi9" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bjoshi9&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" alt="Top Languages" /></a>
 
 <!--
 **Bjoshi9/Bjoshi9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
