@@ -31,7 +31,7 @@ src="https://img.shields.io/github/followers/bjoshi9?logo=github&style=for-the-b
 <p align="left"> <a href="https://www.facebook.com/bjoshi9" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a> <a href="https://www.github.com/bjoshi9" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/bjoshi9" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/brijesh-joshi-b562b35b" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.stackoverflow.com/users/9734616/brijesh-joshi" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/bjoshi91" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
 
 ### Badges
-<a href="https://g.dev/bjoshi9" alt="Google Developer" />
+<a href="https://g.dev/bjoshi9"> Google Developer</a>
 <!--
 ### Badges
 ![bjoshi9's Stats](https://github-readme-stats.vercel.app/api?username=bjoshi9&theme=vue-dark&show_icons=true&hide_border=false&count_private=true)
