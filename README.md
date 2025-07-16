@@ -4,7 +4,7 @@ Hi 👋 My name is Brijesh Joshi
 Senior Android Developer
 ------------------------
 
-* 🌍  I'm based in london
+* 🌍  Current work place is Pune, Maharastra, India
 * ✉️  You can contact me at [joshi.brijesh.ce@gmail.com](mailto:joshi.brijesh.ce@gmail.com)
 * 🧠  Currently working with Jetpack Compose, Flutter, KMM
 
