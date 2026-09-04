@@ -1,0 +1,11 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "nidya.brijesh.brainrusher60",
+      "sha256_cert_fingerprints":
+        ["9C:90:C1:5A:BD:3E:AA:49:D9:F4:37:43:7D:1C:5D:EE:B6:55:85:51:24:C5:27:F6:BC:51:5A:D9:55:58:95:12"]
+    }
+  }
+]
